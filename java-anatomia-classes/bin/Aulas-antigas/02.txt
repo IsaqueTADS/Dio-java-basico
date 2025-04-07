@@ -1,0 +1,31 @@
+public class MinhaClasse {
+
+  public static int number = 90;
+
+  public static void main(String[] args) {
+
+    System.out.print("Ola Mestre, Meu rei\n");
+
+    final String BR = "Brasil";
+
+    
+
+    System.out.println(BR);
+
+  }
+
+}
+
+// Pascal case /*PascalCase:
+/*
+ * 
+ * nome de arquivo com .java e a class desse arquivo usa PascalCase
+ * 
+ * nome des variaveis usa camelCase
+ * Cada palavra começa com letra maiúscula, sem espaços nem separadores.
+ * 
+ * constantes denomidas por final , usam UPPERCASE_SNAKE_CASE
+ * 
+ * Muito usado para nomes de classes, interfaces e tipos em linguagens como
+ * Java, C#, TypeScript etc.
+ */
