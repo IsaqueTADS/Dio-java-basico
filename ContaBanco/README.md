@@ -30,37 +30,3 @@ Após coletar os dados, o programa exibe uma mensagem formatada com as informaç
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
-Compile o código Java:
-
-bash
-Copiar
-Editar
-javac ContaTerminal.java
-Execute a aplicação:
-
-bash
-Copiar
-Editar
-java ContaTerminal
-Siga as instruções no terminal, informando os dados solicitados.
-
-📦 Estrutura do Projeto
-Copiar
-Editar
-ContaTerminal/
-├── ContaTerminal.java
-└── README.md
-📸 Exemplo de Uso
-bash
-Copiar
-Editar
-Digite o numero para a conta: 
-1234
-Digite a agencia da conta: 
-0001
-Digite o seu nome: 
-Isaque Rodrigues
-Digite o saldo da conta: 
-1500.75
-
-Olá Isaque Rodrigues, obrigado por criar uma conta em nosso banco, sua agência é 0001, conta 1234 e s
