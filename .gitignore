@@ -25,3 +25,4 @@ replay_pid*
 tipos-e-variaveis/.vscode/settings.json
 sistema-smart-tv/.vscode/settings.json
 java-terminal/.vscode/settings.json
+java-terminal/.vscode/launch.json
